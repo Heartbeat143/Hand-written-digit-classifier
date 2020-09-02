@@ -42,9 +42,9 @@ Result:-
     FP: [105  10 152 142 168  17 214  43  31  30]    (False Positive)
     FN: [165  16 148  49 138  19 297  29  11  40]    (False Negative)
     
-   Finally, results are...
+   Finally, results are...(d stands for hand written digits)
     	  
-     	digit precision 	specificity 	F1_scores 	accuracy  	recall or sensitivity
+     	d    precision  	specificity 	F1_scores 	accuracy  	recall or sensitivity
       0   	0.888298  	0.988333    	0.860825  	0.9730    	0.835
       1   	0.989940  	0.998889    	0.986961  	0.9974    	0.984
       2   	0.848606  	0.983111    	0.850299  	0.9700    	0.852
